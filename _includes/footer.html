@@ -1,3 +1,15 @@
+<style>  
+    .footer {  
+    position: fixed;  
+    left: 10px;  
+    bottom: 5px;  
+    right: 10px;   
+    width: 95%;  
+    background-color: black;  
+    color: white;  
+    text-align: center;  
+    }  
+</style>
 {% if site.footer_fixed %}
 <footer class="fixed-bottom">
   <div class="container mt-0">
@@ -14,7 +26,7 @@
 </footer>
 {%- else -%}
 <footer class="fixed-bottom">
-  <div class="container mt-0">
+  <div class="footer">
 <!--<footer class="sticky-bottom mt-5">
   <div class="container">-->
     &copy; Copyright {{ site.time | date: '%Y' }} Ajinkya Dhekne. email: ajinkyad1.05@gmail.com, github: https://ajinkyad105.github.io, 
