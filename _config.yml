@@ -57,3 +57,5 @@ plugins:
 
 # New changes from Ajinkya
 
+header_pages:
+  - /_pages/assignment.markdown
