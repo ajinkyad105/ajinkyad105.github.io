@@ -59,3 +59,4 @@ plugins:
 
 header_pages:
   - /_pages/assignment.markdown
+  - /about.markdown
