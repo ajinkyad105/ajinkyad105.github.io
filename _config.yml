@@ -58,5 +58,5 @@ plugins:
 # New changes from Ajinkya
 
 header_pages:
-  - /pages/assignment.markdown
+  - /_pages/assignment.markdown
 #  - /about.markdown
