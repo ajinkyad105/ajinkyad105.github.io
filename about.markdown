@@ -22,4 +22,6 @@ Another way to add image
 </div>
 
 <h1 align="center"> Ajinkya Dhekne </h1>
+<h2 align="center"> Microelectronics student </h2>
+<h2 align="center"> BITS PILANI </h2>
 
