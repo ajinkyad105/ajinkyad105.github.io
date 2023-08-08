@@ -16,6 +16,10 @@ __This will also be bold__
 
 _You **can** combine them_
 
+
+newline 
+new\
+line
 ## Lists
 
 ### Unordered
