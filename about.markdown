@@ -9,5 +9,5 @@ permalink: /about/
 [def]: (/Ajinkya_photo "my_pic")
 -->
 <div align="center">
-<img src="/Ajinkya_photo" alt= "my_pic" width="512px" height="487px">
+<img src="/Ajinkya_photo" alt= "my_pic" width="512px" height="487px" border-radius: 50% >
 </div>
