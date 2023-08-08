@@ -22,5 +22,5 @@ This is a sample image:
 
 
 [jekyll-organization]: https://github.com/jekyll
-[def]: /_images/Ajinkya_photo.jpeg
+[def]: /_images/Ajinkya_photo
 
