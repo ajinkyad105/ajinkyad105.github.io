@@ -18,7 +18,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 This is a sample image:
-![Ajinkya Dhekne](/home/ajinkya/Documents/github/ajinkyad105.github.io/_images/Ajinkya_photo.JPG) 
+![Ajinkya Dhekne](/_images/Ajinkya_photo.JPG) 
 
 
 [jekyll-organization]: https://github.com/jekyll
