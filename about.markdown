@@ -25,7 +25,9 @@ Another way to add image
 <h1 align="center"> Microelectronics student, BITS Pilani </h1>
 
 <div class="social_media">
-  {%- include social.html -%}
+    <div align="center">
+      {%- include social.html -%}
+    </div>
 </div>
 
 
