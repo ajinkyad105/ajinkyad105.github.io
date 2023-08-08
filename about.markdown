@@ -21,7 +21,7 @@ Another way to add image
 <img src="/Ajinkya_photo" alt="my_pic" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
-<h1 align="center"> Ajinkya Dhekne </h1>
-<h2 align="center"> Microelectronics student </h2>
-<h2 align="center"> BITS PILANI </h2>
+<h2 align="center"> Ajinkya Dhekne </h2>
+<h1 align="center"> Microelectronics student </h1>
+<h1 align="center"> BITS PILANI </h1>
 
