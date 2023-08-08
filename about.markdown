@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!-->
+<!---
 ![Ajinkya Dhekne][def] 
 [def]: (/Ajinkya_photo "my_pic")
 -->
