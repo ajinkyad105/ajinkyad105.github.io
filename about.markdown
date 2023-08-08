@@ -30,7 +30,17 @@ Another way to add image
     </div>
 </div>
 
-I am a postgraduate student in Microelectronics specialization. 
+I am a postgraduate student in Microelectronics specialization. More intro
+
+### Interests
+
+* Low power design
+* Neuromorphic computing
+* Integrated Circuits
+* Renewable resources
+* Wearable electronics
+
+
 
 
 
