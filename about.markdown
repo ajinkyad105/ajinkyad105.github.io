@@ -17,4 +17,4 @@ Another way to add image
 </div>
 -->
 
-<img src="/Ajinkya_photo" alt= "my_pic" width="512px"; height="487px"; style="border-radius: 50%;" >
+<img src="/Ajinkya_photo" alt="my_pic" style="border-radius: 50%; width: 150px; height: 150px;">
