@@ -18,6 +18,7 @@ _You **can** combine them_
 
 
 newline 
+<br />
 new\
 line
 ## Lists

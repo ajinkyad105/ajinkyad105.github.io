@@ -30,7 +30,7 @@ Another way to add image
     </div>
 </div>
 
-I am a postgraduate student in Microelectronics specialization. More intro
+I am a research enthusiast in Microelectronics specialization. Through this platform I aim to share my journey, knowledge, insights and hope to make learning fun and interesting! I love playing basketball. 
 
 ### Interests
 
