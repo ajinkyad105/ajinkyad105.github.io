@@ -1,4 +1,9 @@
-# Markdown syntax guide
+---
+layout: post
+title:  "Markdown syntax guide"
+date:   2023-07-31 18:58:09 +0530
+categories: jekyll update
+---
 
 ## Headers
 
