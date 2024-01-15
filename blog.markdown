@@ -4,5 +4,5 @@ title: Blog
 permalink: /blog/
 ---
 
-1. [Wearable Health Monitoring Devices: VLSI Challenges and Solutions](/blog/biomed/2023/08/09/wearable_pros_cons/)
+1. [Wearable Health Monitoring Devices: VLSI Challenges and Solutions](/blog/wearable_pros_cons)
 

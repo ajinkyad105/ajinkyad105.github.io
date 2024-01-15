@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Markdown syntax guide"
-date:   2023-07-31 18:58:09 +0530
+title: "Markdown syntax guide"
+date:   2023-08-02 18:58:09 +0530
 categories: jekyll update
 ---
+<!---*#* layout: archive, single, home, none, default, blog, page-->
+<!---*#* excerpt: "In this post, we'll explore..."-->
+<!---*#* image: /path/to/featured-image.jpg , Specifies a featured image or thumbnail for the content. This image can be displayed alongside the content or when sharing on social media.
+author: John Doe
+categories: [Jekyll, Tutorial]
+tags: [web development, static site generator]-->
 
 ## Headers
 
