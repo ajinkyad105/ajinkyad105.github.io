@@ -13,5 +13,8 @@ permalink: /useful/
 2. [Educational Applets in math, physics and engineering][edu_app_link]: Various Educational applets in math, physics and engineering.<br />
 **Credits: Paul Falstad, Iain Sharp and team.**
 
+3. [Timing and Waveform generator from textual description][time_link]: Create various timing diagrams online using textual description of the timing diagrams.
+
 [elec_link]: https://www.falstad.com/circuit/
 [edu_app_link]: https://www.falstad.com/mathphysics.html
+[time_link]: https://wavedrom.com/

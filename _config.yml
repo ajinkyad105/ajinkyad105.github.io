@@ -26,9 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Check different social media from minima/_includes/social.html
 #twitter_username: jekyllrb
-youtube_username: Microelectronics
-github_username:  ajinkyad105
-linkedin_username: Ajinkya Dhekne
+youtube_username: "@worldelectronics_aj"
+github_username: ajinkyad105
+linkedin_username: ajinkyadhekne
 
 # Build settings
 theme: minima
