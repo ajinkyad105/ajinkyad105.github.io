@@ -1,4 +1,15 @@
-# Markdown syntax guide
+---
+layout: post
+title: "Markdown syntax guide"
+date:   2023-08-02 18:58:09 +0530
+categories: jekyll update
+---
+<!---*#* layout: archive, single, home, none, default, blog, page-->
+<!---*#* excerpt: "In this post, we'll explore..."-->
+<!---*#* image: /path/to/featured-image.jpg , Specifies a featured image or thumbnail for the content. This image can be displayed alongside the content or when sharing on social media.
+author: John Doe
+categories: [Jekyll, Tutorial]
+tags: [web development, static site generator]-->
 
 ## Headers
 
@@ -16,6 +27,11 @@ __This will also be bold__
 
 _You **can** combine them_
 
+
+newline 
+<br />
+new\
+line
 ## Lists
 
 ### Unordered

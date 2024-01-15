@@ -60,3 +60,10 @@ plugins:
 #header_pages:
 #  - /_pages/assignment.markdown
 #  - /about.markdown
+header_pages:
+  - about.markdown
+  - Hobbies.markdown
+  - Research.markdown
+  - Teaching.markdown
+  - Useful.markdown
+  - blog.markdown

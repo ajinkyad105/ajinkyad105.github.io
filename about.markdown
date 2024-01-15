@@ -1,18 +1,46 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<!---
+One way to add image
+![Ajinkya Dhekne][def] 
+[def]: (/Ajinkya_photo "my_pic")
+-->
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<!---
+Another way to add image
+<div align="center">
+<img src="/Ajinkya_photo" alt= "my_pic" width="512px" height="487px" class="img-fluid" >
+</div>
+-->
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<div align="center">
+<img src="/Ajinkya_photo" alt="my_pic" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
+<h2 align="center"> Ajinkya Dhekne </h2>
+<h1 align="center"> Microelectronics student, BITS Pilani </h1>
+
+<div class="social_media">
+    <div align="center">
+      {%- include social.html -%}
+    </div>
+</div>
+
+I am a research enthusiast in Microelectronics specialization. Through this platform I aim to share my journey, knowledge, insights and hope to make learning fun and interesting! I love playing basketball.  
+
+### Interests
+
+* Low power design
+* Neuromorphic computing
+* Integrated Circuits
+* Renewable resources
+* Wearable electronics
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
