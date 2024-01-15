@@ -18,7 +18,7 @@ Another way to add image
 -->
 
 <div align="center">
-<img src="/Ajinkya_photo" alt="my_pic" style="border-radius: 50%; width: 150px; height: 150px;">
+<img src="/my_pic1" alt="my_pic" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <h2 align="center"> Ajinkya Dhekne </h2>
@@ -30,7 +30,7 @@ Another way to add image
     </div>
 </div>
 
-I am a research enthusiast in Microelectronics specialization. Through this platform I aim to share my journey, knowledge, insights and hope to make learning fun and interesting! I love playing basketball.  
+Hello and welcome to my Blog! I'm a passionate research enthusiast with a keen interest in the captivating world of electronics. My journey involves delving into diverse topics within the electronics realm, with a special focus on the fascinating field of VLSI. Through this platform, I aspire to share my research findings, insights, and a wealth of knowledge while cultivating a vibrant community of learners.
 
 ### Interests
 
