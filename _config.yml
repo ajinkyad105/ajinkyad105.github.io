@@ -61,9 +61,9 @@ plugins:
 #  - /_pages/assignment.markdown
 #  - /about.markdown
 header_pages:
-  - about.markdown
-  - Hobbies.markdown
+  #- about.markdown
   - Research.markdown
+  - blog.markdown
   - Teaching.markdown
   - Useful.markdown
-  - blog.markdown
+  - Hobbies.markdown
